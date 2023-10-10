@@ -7,5 +7,4 @@ Machine learning classifiers used:
 Gradient Boosting Classifier  
 Random Forest Classifier  
 Decision Tree  
-SVM   
 Neural Network Classifer  
